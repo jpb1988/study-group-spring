@@ -1,3 +1,6 @@
+Mesage from Gitmaya
+-------------------
+
 Included here one sample project taken from Spring In Action Book Code.
 Converted to Maven  project.
 
