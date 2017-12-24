@@ -1,0 +1,74 @@
+
+.recommenders
+# Got from Gradle project
+
+Thumbs.db
+.DS_Store
+.gradle
+build
+bin
+.classpath
+.project
+.settings
+.springBeans
+exploration
+*.iml
+*.ipr
+*.iws
+
+
+
+# Eclipse Files #
+**/bin
+**/target
+**/tmp
+*.bak
+*.pydevproject
+*.swp
+*.tmp
+*~.nib
+.classpath
+.loadpath
+.metadata
+.project
+.settings
+RemoteSystemsTempFiles/**
+Servers/**
+local.properties
+
+
+
+# Build results
+
+**/[Dd]ebug
+**/[Rr]elease
+**/build
+#**/[Bb]in
+**/[Oo]bj/
+
+
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Compiled source #
+*.com
+*.class
+#*.dll
+#*.exe
+#*.o
+#*.so
+
+# Logs and databases #
+#*.log
+#*.sql
+#*.sqlite
+
+
+
